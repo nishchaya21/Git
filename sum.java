@@ -4,7 +4,7 @@ public class sum{
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.print("Sum : ");
+        System.out.print("Sum is : ");
         System.out.println(a + b);
     }
 }
